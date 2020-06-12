@@ -102,7 +102,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls='lsd'
 alias docker='podman'
-alias bashtop='~/repos/Bash/bashtop/./bashtop'
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 #[[ -s "/etc/grc.zsh" ]] && source /etc/grc.zsh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
